@@ -1,6 +1,6 @@
 name: docs0
 title: Docs0 repository
 version: ~
-start_page: ROOT::index.adoc
+start_page: index.adoc
 nav:
 - modules/ROOT/nav.adoc
