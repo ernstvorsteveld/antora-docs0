@@ -1,1 +1,1 @@
-= ROOT index docs0
+= Site index
