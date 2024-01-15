@@ -10,4 +10,4 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 === Graphics
 
-image::iris-paris.png[Pairs plot of the iris data.]
+image::image.png[Just an image.]
